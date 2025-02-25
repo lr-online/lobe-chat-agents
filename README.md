@@ -89,6 +89,16 @@ Crontab Expression Generator
 
 ---
 
+### [Wanquan](https://lobechat.com/discover/assistant/wanquan)
+
+<sup>By **[@wanquan](https://github.com/123)** on **2025-02-16**</sup>
+
+Qiang Ge teaches you how to create products
+
+`Education` `Smart Q&A`
+
+---
+
 ### [Xiao Zhi French Translation Assistant](https://lobechat.com/discover/assistant/xiao-zhi-french-translation-asst-v-1)
 
 <sup>By **[@WeR-Best](https://github.com/WeR-Best)** on **2025-02-10**</sup>

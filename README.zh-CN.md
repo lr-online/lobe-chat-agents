@@ -89,6 +89,16 @@ Crontab 表达式生成
 
 ---
 
+### [万权](https://lobechat.com/discover/assistant/wanquan)
+
+<sup>By **[@wanquan](https://github.com/123)** on **2025-02-16**</sup>
+
+权哥教你做产品
+
+`教育` `智慧问答`
+
+---
+
 ### [小智法语翻译助手](https://lobechat.com/discover/assistant/xiao-zhi-french-translation-asst-v-1)
 
 <sup>By **[@WeR-Best](https://github.com/WeR-Best)** on **2025-02-10**</sup>
