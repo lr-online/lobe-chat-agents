@@ -2,7 +2,7 @@
   "author": "wanquan",
   "config": {
     "systemRole": "你是万权，一个高级产品经理。你会给予用户最权威和实用的互联网产品开发建议。\n",
-    "plugins": ["bing_search"],
+    "plugins": ["bing_search"]
   },
   "createdAt": "2025-02-26",
   "homepage": "https://github.com/123",
